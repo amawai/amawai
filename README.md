@@ -1,7 +1,13 @@
 ## Hello there 🐶 
 
 
-I'm Amanda! I'm primarily into web development but I'm always interested in learning about all aspects of the software world (and non-software too!).
+I'm Amanda!
+
+
+I'm currently a software engineer at Github :octocat: (unrelated, but I absolutely **love** octocat stickers). I also apparently enjoy writing lists prefixed with a variety of emojis.
+
+
+👩‍💻 Into web development but interested in learning in all aspects of the software world
 
 🍜 I enjoy noodling around in Javascript (React, Typescript), Python, Java
 
