@@ -1,4 +1,26 @@
-### Hi there 👋
+## Hello there 🐶 
+
+
+I'm Amanda! I'm primarily into web development but I'm always interested in learning about all aspects of the software world (and non-software too!).
+
+🍜 I enjoy noodling around in Javascript (React, Typescript), Python, Java
+
+🤿 I'm currently diving into Ruby and Ruby on Rails
+
+✨ Readable, clean code is my jam
+
+---
+
+On a more personal note, here are some other facts about me
+
+
+🐵 Super curious about other people's life experiences, traveling, science
+
+🥘 Culinary adventures are the best adventures 
+
+🌳 Big believer in sustainability practices
+
+🕹️ I love pokemon! 
 
 <!--
 **amawai/amawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
