@@ -20,7 +20,7 @@ I'm currently a software engineer at Github :octocat: (unrelated, but I absolute
 On a more personal note, here are some other facts about me
 
 
-🐵&nbsp; Super curious about other people's life experiences, traveling, science
+🐵&nbsp; Super curious about almost anything
 
 🥘&nbsp; Culinary adventures are the best adventures 
 
