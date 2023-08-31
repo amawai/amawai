@@ -4,29 +4,23 @@
 I'm Amanda!
 
 
-I'm currently a software engineer at Github :octocat: (unrelated, but I absolutely **love** octocat stickers). I also apparently enjoy writing lists prefixed with a variety of emojis.
+👩‍💻&nbsp; I'm currently a software engineer at Github :octocat: (unrelated, but I absolutely **love** octocat stickers). I'm doing web development but interested in learning about all aspects of the software world!
 
-
-👩‍💻&nbsp; Into web development but interested in learning in all aspects of the software world
-
-🍜&nbsp; I enjoy noodling around in Javascript (React, Typescript), Python, Java
-
-🤿&nbsp; I'm currently diving into Ruby and Ruby on Rails
-
-✨&nbsp; Readable, clean code is my jam
 
 ---
 
-On a more personal note, here are some other facts about me
+Some facts about me:
 
 
-🐵&nbsp; Super curious about almost anything
+🐵&nbsp; Curious about almost anything
 
 🥘&nbsp; Culinary adventures are the best adventures 
 
-🌳&nbsp; Big believer in sustainability practices
+🌳&nbsp; Trying to be more sustainable for the planet
 
 🕹️&nbsp; I love pokemon! 
+
+🏸&nbsp; Find me on a badminton court
 
 <!--
 **amawai/amawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
