@@ -1,26 +1,26 @@
-## Hello there 🐶 
+# Hello there 🐶 
 
 
 I'm Amanda!
 
 
-👩‍💻&nbsp; I'm currently a software engineer at Github :octocat: (unrelated, but I absolutely **love** octocat stickers). I'm doing web development but interested in learning about all aspects of the software world!
+👩‍💻&nbsp;I'm a software engineer at Github :octocat: (unrelated, but I absolutely **love** octocat stickers). 
+
+I'm currently doing web development but interested in learning about all aspects of the software world!
 
 
----
-
-Some facts about me:
+## Some facts about me:
 
 
-🐵&nbsp; Curious about almost anything
+- 🐵&nbsp; Curious about almost anything
 
-🥘&nbsp; Culinary adventures are the best adventures 
+- 🥘&nbsp; Culinary adventures are the best adventures 
 
-🌳&nbsp; Trying to be more sustainable for the planet
+- 🌳&nbsp; Trying to be more sustainable for the planet
 
-🕹️&nbsp; I love pokemon! 
+- 🕹️&nbsp; I love pokemon! 
 
-🏸&nbsp; Find me on a badminton court
+- 🏸&nbsp; Find me on a badminton court
 
 <!--
 **amawai/amawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
