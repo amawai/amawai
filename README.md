@@ -4,7 +4,7 @@
 I'm Amanda!
 
 
-👩‍💻&nbsp;I'm a software engineer at Github :octocat: (unrelated, but I absolutely **love** octocat stickers). 
+👩‍💻&nbsp;I'm a software engineer at Github :octocat:
 
 I'm currently doing web development but interested in learning about all aspects of the software world!
 
